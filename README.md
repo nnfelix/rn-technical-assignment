@@ -33,6 +33,12 @@ Implement a react native app where you use the component implemented in the nati
 - Randomized order of the digits on every render.
 - Implementing this exercise for both android and iOS
 
+## Submission Procedures
+
+- Host the project in your own VCS account of choice.
+- Send a link to the repository containing your submission.
+- You have to 5 days to make the submission. After this, we will have a follow-up interview to review the coding exercise.
+
 ## Sketches
 
 Sketch 1: For Part one and two
